@@ -3,6 +3,8 @@ showPyplotGlobalUse = false
 
 [theme]
 base="light"
-secondaryBackgroundColor="#38455e"
+primaryColor="#007710"
+secondaryBackgroundColor="#25334e"
 textColor="#000208"
+
 
