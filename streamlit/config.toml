@@ -1,0 +1,8 @@
+[deprecation]
+showPyplotGlobalUse = false
+
+[theme]
+base="light"
+secondaryBackgroundColor="#38455e"
+textColor="#000208"
+

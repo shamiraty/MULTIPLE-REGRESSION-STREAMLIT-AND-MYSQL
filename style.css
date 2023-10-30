@@ -1,0 +1,59 @@
+[data-testid=metric-container] {
+    box-shadow: 0 0 4px #cccccc;
+    padding: 10px;
+}
+
+.plot-container>div {
+    box-shadow: 0 0 4px #cccccc;
+    padding: 10px;
+    
+   
+}
+
+div[data-testid="stExpander"] div[role="button"] p
+{
+    font-size: 1.3rem;
+    color:rgb(235, 238, 238);
+}
+
+
+
+/* Change the background color of the sidebar */
+div.stSidebar {
+    background-color: #FF5733; /* Set the background color to your preferred color */
+}
+
+/* Change the color of the sidebar items */
+div.stSidebar a {
+    color: #ffffff; /* Set the text color for sidebar items */
+}
+
+
+
+
+
+
+
+/* Material Design Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Update styling for Streamlit widgets as needed */
+/* For example, to style buttons: */
+.stButton {
+    background-color: #3f51b5;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.stButton:hover {
+    background-color: #303f9f;
+}
+
+/* Add more styling rules as necessary */
