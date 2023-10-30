@@ -1,9 +1,9 @@
 # ⏱ MACHINE LEARNING WORKFLOW
-# ⏱ DRIVEN WEB APP BY PYTHON, STREAMLIT & MYSQL
-# ⏱ REGRESSION CLASSIFICATION ANALYSIS
+##  DRIVEN WEB APP BY PYTHON, STREAMLIT & MYSQL
+##  REGRESSION CLASSIFICATION ANALYSIS
 <hr>
-> ### live demo
-  https://business-force.streamlit.app/
+### live demo
+https://business-force.streamlit.app/
 
 > 1. in this video, we are going to make a machine learning web project driven by a probabilistic model that is multivariable linear regression.
 
