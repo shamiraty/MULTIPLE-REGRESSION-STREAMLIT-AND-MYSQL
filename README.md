@@ -2,7 +2,7 @@
 ##  DRIVEN WEB APP BY PYTHON, STREAMLIT & MYSQL
 ##  REGRESSION CLASSIFICATION ANALYSIS
 <hr>
-### live demo
+live demo
 https://business-force.streamlit.app/
 
 > 1. in this video, we are going to make a machine learning web project driven by a probabilistic model that is multivariable linear regression.
@@ -18,23 +18,25 @@ then we will look at how strong the relationship is. this is called the correlat
 
 > 6. then we will look at how much percentage change in X leads to change in Y, this is called the coefficient of determination
 
-## **contents**
+### CONTENTS:
 
-1.	load data from MySQL using python
-2.	basic data exploration
-3.	data modeling & feature selection
-4.	model training & model fitting
-5.	prediction
-6.	X-features to be standard normal distribution (z score)
-7.	finding regression equation line
-8.	finding the coefficient of correlation (r)
-9.	finding the coefficient of determination (R2)
-10.	finding the adjusted coefficient of correlation
-11.	the regression equation and line of best fit
-12.	mean squared error
-13.	mean absolute error
-14.	root mean squared error
-15.	normal distribution curve
+> 1.	load data from MySQL using python
+> 2.	basic data exploration
+> 3.	data modeling & feature selection
+> 4.	model training & model fitting
+> 5.	prediction
+> 6.	X-features to be standard normal distribution (z score)
+> 7.	finding regression equation line
+> 8.	finding the coefficient of correlation (r)
+> 9.	finding the coefficient of determination (R2)
+> 10.	finding the adjusted coefficient of correlation
+> 11.	the regression equation and line of best fit
+> 12.	mean squared error
+> 13.	mean absolute error
+> 14.	root mean squared error
+> 15.	normal distribution curve
+
+## SCREENSHORTS:
 
 ![15](https://github.com/shamiraty/MULTIPLE-REGRESSION-STREAMLIT-AND-MYSQL/assets/129072179/1913cff3-e214-4336-9fb4-2051d08f09c3)
 ![14](https://github.com/shamiraty/MULTIPLE-REGRESSION-STREAMLIT-AND-MYSQL/assets/129072179/6d65de8f-7f2f-43a3-9e27-7a1e376cf947)
